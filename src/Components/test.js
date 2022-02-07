@@ -4,3 +4,4 @@ const tt = "tt";
 const vv = "hello";
 const ii = "err";
 const oo = "final";
+const iuiu = "uiuiu";
